@@ -1,4 +1,4 @@
-<img src="https://github.com/hkaur008/hkaur008/blob/main/root/screen-capture%20(5) (1).gif"/>
+
 
 <table align="center">
 <td>  
@@ -23,7 +23,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=akrj2001@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh">
     <a href="https://twitter.com/AakashR77052614" class="pics">
     <img src="https://user-images.githubusercontent.com/56452820/147067160-a4383602-25a7-4478-94ec-73a0acc24f18.png" height="47vh"></a>
-    <a href="https://t.me/codefloworg" class="pics">
     <img src="https://user-images.githubusercontent.com/56452820/132254883-582e7361-9f34-49c2-aaca-3927e9978e16.png" height="47vh"></a></td>
     </table>
 
