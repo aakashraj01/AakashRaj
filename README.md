@@ -2,7 +2,7 @@
 
 <table align="center">
 <td>  
-📝 I am a third year undergrad at Maharaja Agrasen Institute of Technology, New Delhi pursuing Electronics & Communication Engineering <br>
+📝 I am a final year undergrad at Maharaja Agrasen Institute of Technology, New Delhi pursuing Electronics & Communication Engineering <br>
 🤞  I had participated in  <strong>HacktoberFest'21,GWOC'21 , OpenForce'22 and GSSOC'22</strong> and contributed. <br>
 ✨ I have a keen interest in Web Development,Software Development,Machine Learning,Artificial Intelligence. <br>
 🏆 Looking forward to contribute in GSOC'22 and other open-source projects <br>
